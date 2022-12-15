@@ -1,0 +1,5 @@
+Credentials cache: API:3DB77A34-A08D-43FB-87F9-7840F741ABC1
+        Principal: ylabbe@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Aug 26 12:55:59 2021  Aug 26 22:55:59 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
